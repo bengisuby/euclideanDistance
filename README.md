@@ -1,0 +1,2 @@
+# euclideanDistance
+for patika
